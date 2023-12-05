@@ -12,11 +12,11 @@ If lab not working contact me on (https://www.instagram.com/_.sarc._/)<br>
 |  02  | GSP229     | Predict Visitor Purchases with a Classification Model in BigQuery ML | WORKING FINE ✅ | 08-08-2023 2:06 PM | UPLOADED |
 |  03  | GSP246     | Predict Taxi Fare with a BigQuery ML Forecasting Model | WORKING FINE ✅ | 08-08-2023 2:10 PM | UPLOADED |
 |  04  | GSP642     | Importing Data to a Firestore Database | WORKING FINE ✅ | 08-08-2023 2:15 PM | UPLOADED |
-|  05  | GSP643     | Build a Serverless Web App with Firebase | NOT CHECKED ❌ | NO ETA  | UPLOADED |
-|  06  | GSP344     | Serverless Firebase Development: Challenge Lab | NOT CHECKED ❌ | NO ETA  | UPLOADED |
-|  07  | GSP121     | Cloud Source Repositories: Qwik Start | NOT CHECKED ❌ | NO ETA  | UPLOADED |
-|  08  | GSP330     | Implement DevOps in Google Cloud: Challenge Lab | NOT CHECKED ❌ | NO ETA  | NOT UPLOADED |
-|  09  | GSP301     | Deploy a Compute Instance with a Remote Startup Script | NOT CHECKED ❌ | NO ETA  | UPLOADED |
-|  10  | GSP303     | Configure Secure RDP using a Windows Bastion Host | NOT CHECKED ❌ | NO ETA  | UPLOADED |
-|  11  | GSP306     | Migrate a MySQL Database to Google Cloud SQL | NOT CHECKED ❌ | NO ETA  | UPLOADED |
-|  12  | GSP1077    | Google Kubernetes Engine Pipeline using Cloud Build | NOT CHECKED ❌ | NO ETA  | UPLOADED |
+|  05  | GSP643     | Build a Serverless Web App with Firebase | WORKING FINE ✅ | NO ETA  | UPLOADED |
+|  06  | GSP344     | Serverless Firebase Development: Challenge Lab | WORKING FINE ✅ | NO ETA  | UPLOADED |
+|  07  | GSP121     | Cloud Source Repositories: Qwik Start | WORKING FINE ✅ | NO ETA  | UPLOADED |
+|  08  | GSP330     | Implement DevOps in Google Cloud: Challenge Lab | WORKING FINE ✅ | NO ETA  | NOT UPLOADED |
+|  09  | GSP301     | Deploy a Compute Instance with a Remote Startup Script | WORKING FINE ✅ | NO ETA  | UPLOADED |
+|  10  | GSP303     | Configure Secure RDP using a Windows Bastion Host | WORKING FINE ✅ | NO ETA  | UPLOADED |
+|  11  | GSP306     | Migrate a MySQL Database to Google Cloud SQL | WORKING FINE ✅ | NO ETA  | UPLOADED |
+|  12  | GSP1077    | Google Kubernetes Engine Pipeline using Cloud Build | WORKING FINE ✅ | NO ETA  | UPLOADED |
