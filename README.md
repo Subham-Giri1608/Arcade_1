@@ -15,7 +15,7 @@ If lab not working contact me on (https://www.instagram.com/_.sarc._/)<br>
 |  05  | GSP643     | Build a Serverless Web App with Firebase | WORKING FINE ✅ | NO ETA  | UPLOADED |
 |  06  | GSP344     | Serverless Firebase Development: Challenge Lab | WORKING FINE ✅ | NO ETA  | UPLOADED |
 |  07  | GSP121     | Cloud Source Repositories: Qwik Start | WORKING FINE ✅ | NO ETA  | UPLOADED |
-|  08  | GSP330     | Implement DevOps in Google Cloud: Challenge Lab | WORKING FINE ✅ | NO ETA  | NOT UPLOADED |
+|  08  | GSP330     | Implement DevOps in Google Cloud: Challenge Lab | WORKING FINE ✅ | NO ETA  | UPLOADED |
 |  09  | GSP301     | Deploy a Compute Instance with a Remote Startup Script | WORKING FINE ✅ | NO ETA  | UPLOADED |
 |  10  | GSP303     | Configure Secure RDP using a Windows Bastion Host | WORKING FINE ✅ | NO ETA  | UPLOADED |
 |  11  | GSP306     | Migrate a MySQL Database to Google Cloud SQL | WORKING FINE ✅ | NO ETA  | UPLOADED |
